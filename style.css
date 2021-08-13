@@ -14,6 +14,8 @@ body {
     margin: 0;
 }
 
+/* for background image */
+
 .bg {
     background: url(img/xps-8pb7Hq539Zw-unsplash\ \(1\).jpg)no-repeat center center/cover;
     width: calc(100vw + 60px);
@@ -24,7 +26,7 @@ body {
     z-index: -1;
     filter: blur(0px);
 }
-
+/* text in page */
 .loading-text {
     font-size: 50px;
     color: #fff;
